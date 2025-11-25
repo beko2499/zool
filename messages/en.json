@@ -1,0 +1,129 @@
+{
+    "nav": {
+        "home": "Home",
+        "menu": "Menu",
+        "about": "About",
+        "locations": "Locations"
+    },
+    "hero": {
+        "home": {
+            "title": "<highlight>Zoalinoo</highlight> Burger",
+            "subtitle": "Where Khartoum's spices meet the modern burger.",
+            "subtitle2": "Authentic taste, urban vibe.",
+            "orderNow": "Order Now",
+            "findUs": "Find Us"
+        },
+        "menu": {
+            "title": "Our Menu",
+            "subtitle": "Explore our wide range of authentic Sudanese burgers, crispy sides, and refreshing drinks."
+        },
+        "about": {
+            "title": "Our Story",
+            "subtitle": "From the heart of Khartoum to your plate. A journey of flavor, culture, and passion."
+        },
+        "locations": {
+            "title": "Find Us",
+            "subtitle": "Visit one of our branches to experience the taste of Zoalinoo."
+        }
+    },
+    "home": {
+        "fanFavorites": "Fan Favorites",
+        "fanFavoritesSubtitle": "The burgers that made us famous.",
+        "orderNow": "Order Now"
+    },
+    "menu": {
+        "categories": {
+            "all": "All Items",
+            "burger": "Burgers",
+            "side": "Sides",
+            "drink": "Drinks"
+        },
+        "noItems": "No items found",
+        "tryDifferent": "Try selecting a different category.",
+        "addToOrder": "Add to Order",
+        "quickView": "Quick View"
+    },
+    "products": {
+        "classicZoal": {
+            "name": "The Classic Zoal",
+            "description": "Our signature beef patty with special Sudanese spice blend, cheese, fresh lettuce, tomato, and onion."
+        },
+        "spicyNile": {
+            "name": "Spicy Nile",
+            "description": "Double patty with spicy peanut sauce (Dakwa), jalapeños, caramelized onions, and pepper jack cheese."
+        },
+        "desertChicken": {
+            "name": "Desert Chicken",
+            "description": "Crispy chicken breast with garlic mayo (Toumia), lettuce, and pickles on a toasted brioche bun."
+        },
+        "sultan": {
+            "name": "The Sultan",
+            "description": "Premium lamb patty with feta cheese, mint yogurt sauce, and grilled eggplant."
+        },
+        "zoalFries": {
+            "name": "Zoal Fries",
+            "description": "Crispy fries dusted with our secret spice blend."
+        },
+        "dakwaFries": {
+            "name": "Cheesy Dakwa Fries",
+            "description": "Fries loaded with cheese sauce and spicy peanut drizzle."
+        },
+        "onionRings": {
+            "name": "Onion Rings",
+            "description": "Golden crispy onion rings served with ranch dip."
+        },
+        "karkadeh": {
+            "name": "Hibiscus Fizz (Karkadeh)",
+            "description": "Sparkling hibiscus tea with a hint of ginger and lime."
+        },
+        "gongoleiz": {
+            "name": "Baobab Smoothie (Gongoleiz)",
+            "description": "Creamy and tangy baobab fruit smoothie."
+        },
+        "cola": {
+            "name": "Classic Cola",
+            "description": "Chilled cola with ice."
+        },
+        "spicy": "SPICY",
+        "quantity": "Quantity"
+    },
+    "about": {
+        "vision": "The Zoalinoo Vision",
+        "visionText1": "Zoalinoo Burger started with a simple idea: what if we took the vibrant, bold flavors of Sudanese street food and fused them with the modern gourmet burger experience?",
+        "visionText2": "\"Zoal\" means \"person\" or \"friend\" in Sudanese slang, representing our commitment to community and connection. We believe that food is the best way to bring people together.",
+        "authenticSpices": "Authentic Spices",
+        "authenticSpicesText": "We import our key spices directly from Sudan. Our special blend includes coriander, cumin, cinnamon, and a touch of cardamom.",
+        "freshIngredients": "Fresh Ingredients",
+        "freshIngredientsText": "We source our vegetables locally and grind our meat daily to ensure the freshest, juiciest burgers possible.",
+        "meetTeam": "Meet the Team",
+        "meetTeamText": "We are a group of food enthusiasts, chefs, and designers who share a love for Sudanese culture and great food. Come visit us and be part of our family!"
+    },
+    "locations": {
+        "khartoumDowntown": "Khartoum Downtown",
+        "khartoumAddress": "Al-Qasr Avenue, Khartoum, Sudan",
+        "omdurmanSouq": "Omdurman Souq",
+        "omdurmanAddress": "Al-Mourada Street, Omdurman",
+        "bahriNorth": "Bahri North",
+        "bahriAddress": "Al-Mauna Street, Bahri",
+        "getDirections": "Get Directions"
+    },
+    "cart": {
+        "yourOrder": "Your Order",
+        "empty": "Your cart is empty",
+        "startShopping": "Start adding some delicious items!",
+        "subtotal": "Subtotal",
+        "checkout": "Checkout",
+        "clearCart": "Clear Cart",
+        "remove": "Remove"
+    },
+    "footer": {
+        "tagline": "Authentic Sudanese flavors meet modern burger culture.",
+        "quickLinks": "Quick Links",
+        "followUs": "Follow Us",
+        "allRightsReserved": "All rights reserved."
+    },
+    "common": {
+        "currency": "SDG",
+        "openingHours": "Opening Hours"
+    }
+}

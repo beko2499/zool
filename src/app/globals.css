@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #F9F7F2;
+  /* Neutral 50 */
+  --foreground: #1A1917;
+  /* Neutral 900 */
+
+  --primary: #D9381E;
+  --primary-foreground: #FFFFFF;
+
+  --secondary: #F2A900;
+  --secondary-foreground: #1A1A1A;
+
+  --accent: #008C76;
+  --accent-foreground: #FFFFFF;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #1A1917;
+    /* Neutral 900 */
+    --foreground: #F9F7F2;
+    /* Neutral 50 */
+
+    /* Adjusting for dark mode if needed, keeping vibrant for now */
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-cairo), var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

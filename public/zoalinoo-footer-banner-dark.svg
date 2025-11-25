@@ -1,0 +1,48 @@
+<svg width="1200" height="200" viewBox="0 0 1200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark Background -->
+  <rect width="1200" height="200" fill="#151515"/>
+  
+  <!-- Burger Icon (Left Side) -->
+  <g transform="translate(80, 50)">
+    <!-- Top Bun -->
+    <ellipse cx="50" cy="20" rx="45" ry="15" fill="#FFD90F"/>
+    <ellipse cx="50" cy="20" rx="40" ry="12" fill="#FFA500"/>
+    
+    <!-- Lettuce -->
+    <rect x="10" y="35" width="80" height="8" rx="4" fill="#90EE90"/>
+    
+    <!-- Cheese -->
+    <rect x="15" y="45" width="70" height="6" rx="3" fill="#FFD700"/>
+    
+    <!-- Patty -->
+    <rect x="5" y="53" width="90" height="18" rx="9" fill="#8B4513"/>
+    <circle cx="25" cy="62" r="3" fill="#654321"/>
+    <circle cx="50" cy="62" r="3" fill="#654321"/>
+    <circle cx="75" cy="62" r="3" fill="#654321"/>
+    
+    <!-- Tomato -->
+    <rect x="12" y="73" width="76" height="7" rx="3" fill="#FF6347"/>
+    
+    <!-- Bottom Bun -->
+    <ellipse cx="50" cy="88" rx="48" ry="12" fill="#D2691E"/>
+  </g>
+  
+  <!-- English Text -->
+  <text x="220" y="85" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="bold" fill="#FF4F00">
+    Zoalinoo Burger
+  </text>
+  
+  <!-- Arabic Text -->
+  <text x="220" y="130" font-family="Cairo, sans-serif" font-size="32" font-weight="600" fill="#F5F5F5" direction="rtl">
+    زولينو برجر
+  </text>
+  
+  <!-- Decorative Line (Mustard Yellow Accent) -->
+  <rect x="0" y="195" width="1200" height="5" fill="#FFD90F"/>
+  
+  <!-- Optional: Subtle pattern dots -->
+  <circle cx="1100" cy="100" r="3" fill="#FFD90F" opacity="0.3"/>
+  <circle cx="1120" cy="80" r="2" fill="#FFD90F" opacity="0.3"/>
+  <circle cx="1140" cy="120" r="2" fill="#FFD90F" opacity="0.3"/>
+  <circle cx="1160" cy="90" r="3" fill="#FFD90F" opacity="0.3"/>
+</svg>
